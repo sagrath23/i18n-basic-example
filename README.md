@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# i18n basic example
+
+This is a very basic example of how to handle with i18n based on environment variables.
+
+If you want to run it, just create an `.env` file and set `REACT_APP_LANG` variable with `ES-co` for spanish, or `EN-us` for english.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
